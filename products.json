@@ -1,0 +1,67 @@
+[
+  {
+    "name": "laptop",
+    "quantity": 25
+  },
+  {
+    "name": "camera",
+    "quantity": 109
+  },
+  {
+    "name": "smartWatch",
+    "quantity": 309
+  },
+  {
+    "name": "earPhones",
+    "quantity": 125
+  },
+  {
+    "name": "bar stool",
+    "quantity": 40
+  },
+  {
+    "name": "bluetooth speaker",
+    "quantity": 42
+  },
+  {
+    "name": "emperor bed",
+    "quantity": 23
+  },
+  {
+    "name": "mobile",
+    "quantity": 59
+  },
+  {
+    "name": "mouse",
+    "quantity": 39
+  },
+
+  {
+    "name": "leather sofa",
+    "quantity": 99
+  },
+  {
+    "name": "Electric brush",
+    "quantity": 31
+  },
+  {
+    "name": "penDrive",
+    "quantity": 30
+  },
+  {
+    "name": "monitors",
+    "quantity": 30
+  },
+  {
+    "name": "Home Theatre",
+    "quantity": 109
+  },
+  {
+    "name": "printers",
+    "quantity": 129
+  },
+  {
+    "name": "Gimbal",
+    "quantity": 15
+  }
+]
