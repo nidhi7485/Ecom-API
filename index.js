@@ -16,6 +16,7 @@ app.use('/products', productRoute)
 app.use(notFoundMiddleware)
 const start = async () => {
   try {
+    console.log(process.env.MONGO_URI)
     await connectDB(process.env.MONGO_URI)
     app.listen(port, console.log(`server is running on ${port}...`))
   } catch (error) {
