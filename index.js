@@ -5,7 +5,9 @@ const notFoundMiddleware = require('./middleware/notFound')
 const connectDB = require('./db/connect')
 const port = process.env.PORT || 8000
 
+app.use(express.json())
 const productRoute = require('./routes/product')
+
 app.get('/', (req, res) => {
   res.send('home page')
 })
